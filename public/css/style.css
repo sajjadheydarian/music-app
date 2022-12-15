@@ -1,0 +1,13 @@
+*{
+    direction: rtl;
+}
+
+img{
+    width: 70vh;
+}
+.MuiListItem-root{
+    text-align: unset !important;
+}
+nav .css-wjh20t-MuiPagination-ul{
+    direction: ltr;
+}

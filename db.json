@@ -1,0 +1,155 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 2,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 3,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 4,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 5,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 6,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 7,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 8,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    },
+    {
+      "id": 9,
+      "title": "یه موقع هایی هست 2",
+      "author": "شایع",
+      "address": "",
+      "image": "",
+      "description": "",
+      "star": "3"
+    }
+  ],
+  "profile": [
+    {
+      "id": 1,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 2,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 3,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 4,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 5,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 6,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 7,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 8,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 9,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 10,
+      "name": "",
+      "image": "",
+      "date": ""
+    },
+     {
+      "id": 11,
+      "name": "",
+      "image": "",
+      "date": ""
+    }
+  ]
+}
+
+//json-server --watch db.json --port 3001
